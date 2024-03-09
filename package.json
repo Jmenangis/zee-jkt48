@@ -1,0 +1,28 @@
+{
+  "name": "zee-jkt48",
+  "version": "1.0.0",
+  "description": "zee-jkt48",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmenangis/zee-jkt48.git"
+  },
+  "keywords": [
+    "zee",
+    "jkt",
+    "48"
+  ],
+  "author": "jmenangis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jmenangis/zee-jkt48/issues"
+  },
+  "homepage": "https://github.com/Jmenangis/zee-jkt48#readme",
+  "dependencies": {
+    "mocha": "^10.3.0",
+    "wayae-wong-tulus-tampil": "^1.0.0"
+  }
+}
